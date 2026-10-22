@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://yaandrei2000.github.io/sitemap.xml
+Disallow: /
